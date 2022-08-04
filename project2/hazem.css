@@ -1,0 +1,35 @@
+body{
+    background-image: url(_IN_6112.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.form-row
+{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding-bottom: 20px;
+     font-size: 20px;
+     font-family: 'poppins', sans-serif;
+     border-bottom: 1px solid;
+     font-weight: 300;
+    border-style: none;
+padding-top:20px ;
+
+
+
+     }
+form input[
+    type = submit
+]
+{
+    
+    background:  #3964AF;
+    padding: 10px 12px;
+    border-radius: 10px;
+}
+
+h1{
+    padding-top:180px ;
+}
